@@ -6,7 +6,7 @@
 ### Ссылки
 Чат в telegram: https://t.me/joinchat/DEBCqh3GZoWaCC8qhYLw1g
 
-Anytask курса (скоро появится)
+[Anytask курса](https://anytask.org/course/751) (инвайт 1hgezx4)
 
 ### Правила выставления оценок
 В курсе предусмотрено несколько форм контроля знания:
@@ -24,6 +24,8 @@ O<sub>итоговая</sub> = 0.33 * О<sub>домашние задания</su
 
 ### Экзамен и контрольная работа
 [Вопросы к контрольной работе](https://github.com/ftad/BM2020/blob/master/materials/questions_KR.pdf)
+
+[Вопросы к экзамену](https://github.com/ftad/BM2020/blob/master/materials/BMMO_exam_2020_full.pdf)
 
 Экзамен и контрольная работы письменные (проводятся очно),  работа состоит из теоретических вопросов из списка вопросов и теоретически задач в пропорции 50/50. Продолжительность написания: 1 час 30 минут. На экзамене и контрольной работе можно пользоваться одним листом размера А6 (четверть А4), написанным от руки.
 
@@ -51,8 +53,19 @@ __Занятие 4. Методы Markov Chain Monte Carlo__
 * [Презентация](https://github.com/ftad/BM2020/blob/master/materials/presentation_MCMC_ftad.pdf)
 * [__Задание для самостоятельной работы__](https://github.com/ftad/BM2020/blob/master/materials/homework_BNN.pdf)
 
+__Занятие 5. Гауссовские процессы и байесовская оптимизация__
+* [Презентация](https://github.com/ftad/BM2020/blob/master/materials/presentation_GP_ftad.pdf)
+
+__Занятие 6. Модели с латентными переменными и EM-алгоритм__
+* [Презентация](https://github.com/ftad/BM2020/blob/master/materials/presentation_EM_ftad.pdf)
+* [__Задание для самостоятельной работы__](https://github.com/ftad/BM2020/blob/master/materials/homework_EM.pdf)
+
+__Занятие 7. Вариационные автокодировщики__
+* [Презентация](https://github.com/ftad/BM2020/blob/master/materials/presentation_VAE_ftad.pdf)
+
 ### Задания
 * [Задание по байесовской линейной регрессии](https://github.com/ftad/BM2020/blob/master/materials/Task_BLR.ipynb). Дедлайн: 23:59 29.09.20.
+* [Задание по EM-алгоритму](https://github.com/ftad/BM2020/blob/master/materials/Task_EM.ipynb). Дедлайн: 23:59 24.10.2020 (жесткий)
 
 ### Полезные материалы
 Книги:
